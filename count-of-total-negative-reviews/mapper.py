@@ -17,4 +17,6 @@ for line in input:
     output.write(Hotel_Name + "\t" + Review_Total_Negative_Word_Counts + "\n")
     # Increased the count to captured the row count.
     counter = counter + 1
-
+# Closing both the files input and output
+input.close()
+output.close()
