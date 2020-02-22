@@ -4,7 +4,7 @@ import csv
 #openning the CSV file
 input = open ("Hotel_Reviews.csv", "r")
 #creating output text file positive.txt
-output = open ("positive.txt", "w")
+output = open("positive.txt", "w")
 
 # using for loop to iterate through the input
 counter = 0
