@@ -24,3 +24,9 @@ for line in s:
         thisValue = 0.0
     # apply the aggregation function
     thisValue += float(Review)
+list1 = [thisValue]
+# output the final entry when done
+r.write(thisKey + '\t' + str(thisValue)+'\n')
+r.write(str(list1))
+s.close()
+r.close()    
