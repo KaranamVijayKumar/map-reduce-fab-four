@@ -15,3 +15,6 @@ for line in input:
     Hotel_Name, Review_Total_Negative_Word_Counts = datalist[4], datalist[7]
     # wrote the values inside variable into 01.txt file.
     output.write(Hotel_Name + "\t" + Review_Total_Negative_Word_Counts + "\n")
+    # Increased the count to captured the row count.
+    counter = counter + 1
+
