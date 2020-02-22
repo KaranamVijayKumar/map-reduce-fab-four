@@ -32,3 +32,16 @@ newList = []
 # iterating over the list to find max value
 for each in abc:
   newList.append(float(each))
+
+maxValue = max((newList))
+
+keyValue = "" 
+# iterating over key value pairs and printing max value
+for key, value in d.items():
+  if float(value) == maxValue:
+    keyValue = key
+    break
+print(keyValue,' : ',maxValue)
+
+s.close()
+r.close()    
