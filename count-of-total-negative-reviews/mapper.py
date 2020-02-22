@@ -3,5 +3,6 @@ import csv
 # opening the csv file in read mode and assigning it to variable input
 input = open("Hotel_Reviews.csv", "r")
 # Created the 01.txt file and output variable to write mapper output in 01.txt
-
 output = open("01.txt", "w")
+# Created count variable to count the number of lines in 01.txt
+counter = 0
