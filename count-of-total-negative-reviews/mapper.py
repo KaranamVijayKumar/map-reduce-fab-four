@@ -6,3 +6,8 @@ input = open("Hotel_Reviews.csv", "r")
 output = open("01.txt", "w")
 # Created count variable to count the number of lines in 01.txt
 counter = 0
+# Wrote the for loop to iterate over each line in input variable,
+#  removed the extra spaces after and before the line and stored
+#  the comma seperated value into a list.
+for line in input:
+    datalist = line.strip().split(",")
