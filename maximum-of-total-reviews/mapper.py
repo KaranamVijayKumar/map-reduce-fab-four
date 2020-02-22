@@ -13,3 +13,7 @@ for line in input:
     Hotel_Name, Reviewer_Reviews = datalist[4], datalist[11]
     output.write(Hotel_Name + "\t" + Reviewer_Reviews + "\n")
     counter = counter + 1
+
+# Closing the opened files    
+input.close()
+output.close()
