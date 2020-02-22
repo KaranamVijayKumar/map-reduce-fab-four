@@ -36,11 +36,16 @@ for each in abc:
 maxValue = max((newList))
 
 keyValue = "" 
-# iterating over key value pairs and printing max value
+# iterating over key value pairs and printing max value in console
 for key, value in d.items():
   if float(value) == maxValue:
     keyValue = key
     break
+
+# creating a final output file to store max value
+output = open("finaloutput.txt", "w")
+output.write(keyValue + '\t'+ str(maxValue)+'\n')
+
 print(keyValue,' : ',maxValue)
 
 s.close()
