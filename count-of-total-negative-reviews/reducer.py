@@ -19,3 +19,6 @@ for line in s:
         if thisKey:
             # output the last key value pair result
              r.write(thisKey + '\t' + str(thisValue)+'\n')
+        # start over when changing keys
+        thisKey = Hotel 
+        thisValue = 0.0
