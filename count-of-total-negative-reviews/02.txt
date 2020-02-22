@@ -1,0 +1,1495 @@
+Hotel Arena	12474.0
+K K Hotel George	10417.0
+Apex Temple Court Hotel	12435.0
+The Park Grand London Paddington	38734.0
+Monhotel Lounge SPA	529.0
+Kube Hotel Ice Bar	737.0
+The Principal London	29447.0
+Park Plaza County Hall London	45842.0
+One Aldwych	2209.0
+Splendid Etoile	1198.0
+Hotel Trianon Rive Gauche	3621.0
+InterContinental London Park Lane	2682.0
+Novotel Suites Paris Nord 18 me	5210.0
+Grand Royale London Hyde Park	65713.0
+Milestone Hotel Kensington	695.0
+Crowne Plaza London Kings Cross	21289.0
+Select Hotel	4142.0
+H tel De Vend me	1126.0
+Pullman Paris Centre Bercy	3305.0
+Gardette Park Hotel	3136.0
+Hotel Panache	1290.0
+H tel des Ducs D Anjou	2758.0
+Hotel Scribe Paris Opera by Sofitel	1959.0
+Novotel London West	25848.0
+Haymarket Hotel	1637.0
+Intercontinental London The O2	40591.0
+H tel Juliana Paris	3352.0
+Hotel L Antoine	1873.0
+Belfast	1113.0
+Shangri La Hotel Paris	679.0
+Mercure Paris Tour Eiffel Pont Mirabeau	1330.0
+Knightsbridge Hotel	2362.0
+The London EDITION	2186.0
+The Cranley Hotel	4778.0
+Hotel Le 10 BIS	318.0
+The Nadler Soho	5911.0
+Grange St Paul s Hotel	25888.0
+The Ampersand Hotel	5538.0
+Covent Garden Hotel	1041.0
+The Nadler Victoria	6748.0
+Novotel London Tower Bridge	6536.0
+Crowne Plaza Paris R publique	3486.0
+Le Metropolitan a Tribute Portfolio Hotel	1162.0
+Atala Champs Elys es	478.0
+H tel de Jos phine BONAPARTE	820.0
+Maison Souquet	930.0
+Hotel Tour d Auvergne Opera	741.0
+Le Senat	1539.0
+Windsor Opera	545.0
+Holiday Inn Paris Montparnasse Pasteur	1405.0
+H tel Keppler	907.0
+Les Plumes Hotel	2041.0
+Hotel des Tuileries Relais du Silence	2099.0
+Bradford Elys es Astotel	953.0
+W London Leicester Square	7296.0
+The Victoria	3900.0
+Pullman London St Pancras	18093.0
+Crowne Plaza London Kensington	4837.0
+Doubletree by Hilton London Kensington	23738.0
+Ace Hotel London Shoreditch	10242.0
+Staybridge Suites London Vauxhall	2165.0
+The Grosvenor	32524.0
+The Park Tower Knightsbridge a Luxury Collection Hotel	4727.0
+Amp re	2260.0
+Melia Paris Champs Elys es	140.0
+Le Parisis Paris Tour Eiffel	7853.0
+Thistle Kensington Gardens	13952.0
+Park Plaza Sherlock Holmes London	11171.0
+Hilton Paris Opera	2278.0
+The Kensington Hotel	5340.0
+Holiday Inn London Stratford City	16244.0
+Staybridge Suites London Stratford	6707.0
+Shepherd s Bush Boutique Hotel	12198.0
+My Bloomsbury	11920.0
+Holiday Inn Paris Gare de Lyon Bastille	5308.0
+H tel Chaplain Paris Rive Gauche	1352.0
+H tel Regina Op ra Grands Boulevards	1121.0
+11 Cadogan Gardens	2469.0
+The Wellesley Knightsbridge a Luxury Collection Hotel London	957.0
+Hotel Astor Saint Honor 	594.0
+Op ra Marigny	3080.0
+H tel Diva Opera	4492.0
+Le Marcel	1063.0
+H tel Duo	3594.0
+H tel Le Marianne	666.0
+The Rembrandt	12481.0
+Hotel Eden	1042.0
+H tel de la Bourdonnais	5258.0
+Ashburn Hotel	4054.0
+Marlin Waterloo	1954.0
+Best Western Premier Marais Grands Boulevards	4515.0
+Novotel London Waterloo	6912.0
+The Athenaeum	4115.0
+Park International Hotel	12306.0
+Lansbury Heritage Hotel	779.0
+Le Dokhan s a Tribute Portfolio Hotel	1366.0
+Le Relais Madeleine	1005.0
+Terrass H tel Montmartre by MH	2699.0
+Millennium Hotel Paris Opera	2383.0
+Waldorf Madeleine	3928.0
+Batty Langley s	3415.0
+Best Western Mornington Hotel Hyde Park	16353.0
+Arbor City	12636.0
+Hotel La Lanterne	1747.0
+H tel Square Louvois	1159.0
+Hotel Marignan Champs Elys es	3623.0
+Le Grey Hotel	792.0
+Le Pavillon des Lettres	415.0
+H tel San R gis	1286.0
+Garden Elys e	1274.0
+Hotel Louvre Montana	747.0
+Ambassadors Bloomsbury	14811.0
+Le 123 S bastopol Astotel	1546.0
+Le 123 Elysees Astotel	546.0
+The Bryson Hotel	3111.0
+Best Western Mercedes Arc de Triomphe	1084.0
+London Marriott Hotel Regents Park	16330.0
+Hilton London Hyde Park	5328.0
+Staunton Hotel B B	3616.0
+1K Hotel	3690.0
+H tel Westminster	5698.0
+L H tel	969.0
+Mercure Paris Porte d Orleans	174.0
+Maxim Op ra	1039.0
+Le Marceau Bastille	2596.0
+Hotel Odeon Saint Germain	2207.0
+Mercure London Bloomsbury Hotel	10526.0
+The Chamberlain	12270.0
+Radisson Blu Edwardian Grafton	27625.0
+La Villa Haussmann	868.0
+London Marriott Hotel Marble Arch	7641.0
+Saint Georges Hotel	15071.0
+Park Grand London Lancaster Gate	7341.0
+The Henrietta Hotel	246.0
+Sofitel Paris Arc De Triomphe	2974.0
+Hotel Mercure La Sorbonne Saint Germain des Pr s	998.0
+La Tremoille Paris	838.0
+Hotel Op ra Richepanse	2466.0
+H tel Duc De St Simon	1097.0
+Hotel Le Six	622.0
+The Bailey s Hotel London	18823.0
+London Marriott Hotel Park Lane	1388.0
+Best Western Premier Louvre Saint Honor 	4399.0
+Hotel Indigo London Tower Hill	4288.0
+Windermere Hotel	963.0
+La Villa Maillot	811.0
+H tel Madison by MH	1314.0
+Mercure London Paddington Hotel	12681.0
+Hilton London Paddington	21814.0
+London Marriott Hotel Kensington	3643.0
+Kensington House Hotel	4765.0
+Charlotte Street Hotel	1622.0
+The Goring	1085.0
+Novotel Paris 14 Porte d Orl ans	428.0
+The Pelham Starhotels Collezione	5776.0
+The Montague On The Gardens	4508.0
+Ritz Paris	302.0
+Hotel Les Rives de Notre Dame	698.0
+Sofitel Paris Le Faubourg	2021.0
+Bassano	1956.0
+Best Western Premier Le Swann	1627.0
+H tel des Academies et des Arts	435.0
+Hotel Lumen Paris Louvre	845.0
+Le Marquis Eiffel	1527.0
+COQ Hotel Paris	3457.0
+Mill sime H tel	1690.0
+The Leonard Hotel	7751.0
+DoubleTree by Hilton London Hyde Park	16261.0
+The Ritz London	4823.0
+M by Montcalm Shoreditch London Tech City	39646.0
+Legend Saint Germain by Elegancia	1074.0
+Clayton Crown Hotel London	24841.0
+Au Manoir Saint Germain	2168.0
+St Paul s Hotel	5783.0
+Best Western S vres Montparnasse	3401.0
+The Bloomsbury Hotel	9102.0
+Nolinski Paris	1179.0
+Le Tourville Eiffel	2057.0
+Paris Marriott Opera Ambassador Hotel	1114.0
+Hotel Indigo London Paddington	4430.0
+Idol Hotel	1129.0
+H tel California Champs Elys es	4441.0
+Hotel de Seze	804.0
+Number Sixteen	1757.0
+Hotel Xenia Autograph Collection	3558.0
+H tel Hor	4002.0
+Britannia International Hotel Canary Wharf	124089.0
+Best Western Op ra Batignolles	1761.0
+H tel de Banville	1491.0
+Villa Eugenie	1474.0
+Hilton London Euston	11394.0
+Egerton House	465.0
+Millennium Hotel London Knightsbridge	18717.0
+H tel Raphael	987.0
+Le 7 Eiffel Hotel	1178.0
+Paris Marriott Rive Gauche Hotel	977.0
+Hotel La Place	2042.0
+Hotel Le Pera	431.0
+H tel Bedford	6062.0
+Drawing Hotel	274.0
+Novotel Paris Centre Gare Montparnasse	4566.0
+D clic Hotel	787.0
+Villa d Estr es	477.0
+Bulgari Hotel London	280.0
+Novotel London Greenwich	7955.0
+Park Avenue Baker Street	18844.0
+Hotel Plaza Elys es	1420.0
+Hotel Champs Elys es Friedland by Happyculture	830.0
+Malmaison London	12295.0
+The Park City Grand Plaza Kensington Hotel	4367.0
+Park Plaza London Riverbank	52454.0
+Pullman Paris Tour Eiffel	19822.0
+Danubius Hotel Regents Park	9941.0
+Hotel Bachaumont	1994.0
+Franklin Roosevelt	1298.0
+H tel Horset Op ra Best Western Premier Collection	2236.0
+Best Western Paris Gare Saint Lazare	2169.0
+Splendide Royal Paris	194.0
+The Rockwell	10685.0
+The LaLit London	1259.0
+Mercure Paris Alesia	1790.0
+Courthouse Hotel London	22716.0
+Best Western The Boltons Hotel London Kensington	12824.0
+Radisson Blu Edwardian Sussex	10931.0
+Hotel The Peninsula Paris	608.0
+Le Narcisse Blanc Spa	629.0
+The Pillar Hotel	2286.0
+Crowne Plaza London The City	2976.0
+H tel Les Dames du Panth on	1063.0
+H tel Victor Hugo Paris Kl ber	786.0
+Grand Hotel Saint Michel	1802.0
+Hotel Maison Ath n e	1507.0
+Relais Du Louvre	866.0
+Pullman Paris Montparnasse	5933.0
+Best Western Ducs de Bourgogne	3714.0
+Best Western Premier Op ra Opal	1771.0
+Amarante Champs Elys es	1974.0
+The Gore Hotel Starhotels Collezione	9879.0
+The Hoxton Holborn	9376.0
+Mercure London Kensington Hotel	12038.0
+Royal Garden Hotel	13549.0
+Boundary Rooms Suites	120.0
+H tel Ad le Jules	1369.0
+Grange White Hall Hotel	5430.0
+Hilton London Bankside	13618.0
+DoubleTree by Hilton London Ealing	12026.0
+Molitor Paris MGallery by Sofitel	1100.0
+First Hotel Paris Tour Eiffel	1533.0
+DoubleTree by Hilton London Victoria	18097.0
+St Ermin s Hotel Autograph Collection	6520.0
+Montagu Place Hotel	1403.0
+H tel Regina	5130.0
+Mercure Paris Gare De Lyon TGV	7220.0
+Villa Montparnasse	879.0
+H tel des Champs Elys es	1797.0
+Lyric H tel Paris	1039.0
+Hotel Design Secret de Paris	1043.0
+Hotel Dupond Smith	155.0
+Okko Hotels Paris Porte De Versailles	782.0
+La Villa Royale	1722.0
+Hotel Indigo Paris Opera	1564.0
+Villa Opera Drouot	1640.0
+Novotel Paris Gare De Lyon	9719.0
+H tel Belloy Saint Germain By Happyculture	1399.0
+Hotel Louis 2	648.0
+InterContinental Paris Le Grand	2061.0
+The Trafalgar Hilton	7927.0
+Park Lane Mews Hotel	26886.0
+Old Ship Inn Hackney	3408.0
+The Drayton Court Hotel	6977.0
+The Montcalm Marble Arch	13222.0
+The Colonnade	4383.0
+The Royal Horseguards	16336.0
+Grange Fitzrovia Hotel	9402.0
+H tel Le M	2060.0
+The Hari London	2488.0
+citizenM London Bankside	21204.0
+Radisson Blu Edwardian Mercer Street	13193.0
+Twenty Nevern Square Hotel	17678.0
+The Abbey Court Notting Hill	1697.0
+Seven Hotel	600.0
+Platine Hotel Spa	1441.0
+Mercure Paris Gare Montparnasse	537.0
+Mercure Paris Notre Dame Saint Germain des Pr s	1412.0
+Mercure Paris Centre Tour Eiffel	15384.0
+Banke H tel	2518.0
+Mondrian London	28381.0
+Karma Sanctum Soho Hotel	4172.0
+NH London Kensington	4163.0
+Saint James Albany Paris Hotel Spa	16922.0
+Mercure Paris Montparnasse Raspail	1499.0
+Golden Tulip Bercy Gare de Lyon 209	2096.0
+Montfleuri	3222.0
+Simply Rooms Suites	2073.0
+Mercure Paris Pigalle Sacre Coeur	1647.0
+The Academy	6606.0
+Le Meridien Piccadilly	6450.0
+Mercure Paris Terminus Nord	26735.0
+H tel F licien by Elegancia	1508.0
+Le Lavoisier	217.0
+H tel Moli re	726.0
+Vice Versa	840.0
+The Kings Head Hotel	1449.0
+H tel Etoile Saint Honor by Happyculture	2609.0
+Hotel Le petit Paris	737.0
+Mercure Paris 19 Philharmonie La Villette	1627.0
+Royal Garden Champs Elysees	4647.0
+H tel Brighton Esprit de France	4586.0
+H tel Paris Bastille Boutet MGallery by Sofitel	1026.0
+Montcalm Royal London House City of London	12747.0
+Conrad London St James	5248.0
+L Edmond H tel	307.0
+Novotel Suites Paris Montreuil Vincennes	4907.0
+London Marriott Hotel West India Quay	24262.0
+London Hilton on Park Lane	6989.0
+Radisson Blu Portman Hotel London	17991.0
+H tel France d Antin Op ra	570.0
+Hotel Stendhal Place Vend me Paris MGallery by Sofitel	153.0
+H tel De Buci by MH	836.0
+Hotel Parc Saint Severin Esprit de France	1657.0
+Hotel Chavanel	190.0
+The Portobello Hotel	1200.0
+Royal Saint Honore	1592.0
+Landmark London	5922.0
+Hilton London Metropole	65762.0
+Best Western Seraphine Kensington Olympia	9204.0
+Portobello House	2159.0
+Le Meurice	566.0
+Maison Albar Hotel Paris C line	2344.0
+Henry VIII	29837.0
+Goodenough Club	7820.0
+Holiday Inn Paris Montmartre	809.0
+Hotel Pulitzer Paris	3361.0
+Hotel Vignon	2042.0
+London Suites	2781.0
+H tel Aiglon Esprit de France	2487.0
+Sansi Diputacio	1420.0
+Park Plaza Victoria London	25710.0
+Grange Beauchamp Hotel	5770.0
+The Franklin Hotel Starhotels Collezione	502.0
+Club Quarters Hotel St Paul s	25719.0
+Hotel Elys es Bassano	1938.0
+Hotel Opera Cadet	655.0
+Phileas Hotel	3549.0
+Holiday Inn Paris Elys es	1150.0
+H tel Beauchamps	5152.0
+Best Western Nouvel Orl ans Montparnasse	3677.0
+Hotel Plaza Athenee Paris	388.0
+Mercure Paris Place d Italie	441.0
+The Nadler Kensington	6790.0
+H tel Da Vinci Spa	1906.0
+XO Hotel	185.0
+H tel Vernet	1702.0
+Mandarin Oriental Paris	347.0
+Rosewood London	4667.0
+Novotel Paris Vaugirard Montparnasse	5208.0
+Mayflower Hotel Apartments	22890.0
+Caesar Hotel	5322.0
+Hotel Xanadu	2272.0
+Draycott Hotel	1655.0
+DoubleTree by Hilton London Docklands Riverside	56673.0
+Bentley London	4279.0
+Mercure Paris Arc de Triomphe Etoile	320.0
+Park Grand Paddington Court	45302.0
+The One Barcelona GL	1539.0
+The Zetter Townhouse Marylebone	1010.0
+Forest Hill Paris la Villette	5164.0
+The Levin Hotel	729.0
+The Tophams Hotel	5324.0
+Le Pavillon de la Reine Spa	1220.0
+Hidden Hotel by Elegancia	743.0
+Le Roch Hotel Spa	330.0
+H10 London Waterloo	9612.0
+San Domenico House	1874.0
+Bloomsbury Palace Hotel	35958.0
+Hotel du Petit Moulin	698.0
+Hotel Atmospheres	2393.0
+H tel La Comtesse by Elegancia	1392.0
+Hotel Astra Opera Astotel	397.0
+Hotel La Villa Saint Germain Des Pr s	688.0
+Grand Pigalle Hotel	1768.0
+Innkeeper s Lodge London Greenwich	14456.0
+Morgan Mees	2564.0
+Hotel Duminy Vendome	2674.0
+Maison Albar H tel Paris Champs Elys es ex Mac Mahon 	2812.0
+Holiday Inn London Mayfair	11213.0
+H tel Recamier	375.0
+TRYP Paris Op ra	1264.0
+Royal Saint Michel	5398.0
+Paddington Court Executive Rooms	5316.0
+Novotel London Paddington	6703.0
+Hyatt Regency Paris Etoile	20721.0
+Relais Saint Jacques	1451.0
+Hotel Cambon	694.0
+Mercure Paris Montmartre Sacr Coeur	5758.0
+Relais Christine	1427.0
+Les Matins de Paris Spa	1994.0
+Hotel Square	549.0
+H tel Bourgogne Montana by MH	2002.0
+The Westin Paris Vend me	2091.0
+Hotel Montalembert	592.0
+H tel Mathis Elys es	2797.0
+Le Saint Hotel Paris	713.0
+Hotel Le Squara	2217.0
+L Hotel Pergol se Paris	3339.0
+H tel Mayfair Paris	809.0
+Best Western Plus de Neuville Arc de Triomphe	1406.0
+South Place Hotel	5555.0
+The Royal Park Hotel	2879.0
+Holiday Inn Paris Op ra Grands Boulevards	2217.0
+Henley House Hotel	7420.0
+Holiday Inn London Camden Lock	10750.0
+DoubleTree by Hilton London Westminster	21969.0
+Blakemore Hyde Park	38961.0
+Hyatt Regency London The Churchill	3581.0
+Rathbone	5379.0
+Le Belmont Champs Elys es	1762.0
+Duret	447.0
+H tel Elysees Mermoz	1040.0
+Majestic Hotel Spa	469.0
+BoB Hotel by Elegancia	1354.0
+Comfort Inn Suites Kings Cross St Pancras	8109.0
+The Queens Gate Hotel	20362.0
+Grange Langham Court Hotel	6055.0
+Radisson Blu Edwardian Hampshire	13136.0
+Four Seasons Hotel George V Paris	1028.0
+The Marble Arch London	9805.0
+H tel Fabric	883.0
+H tel du Minist re	3355.0
+Shangri La Hotel at The Shard London	16077.0
+Hotel Les Bulles De Paris	3510.0
+Acad mie H tel Saint Germain	3906.0
+Plaza Tour Eiffel	936.0
+Park Grand London Kensington	39387.0
+Rocco Forte Brown s Hotel	644.0
+Royal Hotel Champs Elys es	3986.0
+Best Western Allegro Nation	1141.0
+Prince de Galles a Luxury Collection hotel Paris	468.0
+The Beaufort	2905.0
+H tel La Parizienne by Elegancia	2466.0
+Madeleine Plaza	1488.0
+Blakes Hotel	1638.0
+Castille Paris Starhotels Collezione	2949.0
+H tel D Aubusson	2813.0
+Hotel Oscar	1375.0
+Best Western Bretagne Montparnasse	3057.0
+The Westbridge Hotel	8729.0
+Courthouse Hotel Shoreditch	7278.0
+ME London by Melia	6508.0
+Grange Clarendon Hotel	7649.0
+Hotel Indigo London Kensington	5032.0
+Novotel Paris 17	2051.0
+Rafayel Hotel Spa	22025.0
+Norfolk Towers Paddington	36611.0
+Artus Hotel by MH	473.0
+Best Western Premier Kapital Op ra	4373.0
+Timhotel Op ra Blanche Fontaine	1795.0
+H tel Amastan Paris	304.0
+H tel Gustave	3064.0
+Best Western Maitrise Hotel Edgware Road	7765.0
+Georgian House Hotel	7276.0
+Best Western Tour Eiffel Invalides	1518.0
+The Chesterfield Mayfair	4830.0
+My Chelsea	7989.0
+Eiffel Trocad ro	2970.0
+Hotel Saint Petersbourg Opera	4885.0
+H tel Champs lys es Plaza	583.0
+Melia Paris Tour Eiffel	832.0
+Timhotel Op ra Grands Magasins	1186.0
+Dukes Hotel	1491.0
+Radisson Blu Edwardian Berkshire	10429.0
+Pestana Chelsea Bridge Hotel Spa	11217.0
+Arbor Hyde Park	15071.0
+Mercure Paris Porte De Versailles Expo	692.0
+Great St Helen Hotel	11914.0
+Hotel Whistler	400.0
+Hotel Georgette	1094.0
+Westside Arc de Triomphe Hotel	5637.0
+Etoile Saint Ferdinand	1581.0
+H tel Saint Marc	1136.0
+United Lodge Hotel and Apartments	6068.0
+H tel Le Walt	706.0
+H tel Le Royal Monceau Raffles Paris	411.0
+Eccleston Square Hotel	3463.0
+Nottingham Place Hotel	5655.0
+Hotel Claridge Paris	2806.0
+Strand Palace Hotel	76687.0
+H tel L Echiquier Op ra Paris MGallery by Sofitel	1329.0
+H tel De Castiglione	5707.0
+Hilton London Olympia	21732.0
+Grange Buckingham Hotel	672.0
+The Cleveland	5252.0
+Dorset Square Hotel	2080.0
+Edouard 7 Paris Op ra	2175.0
+Renaissance Paris Arc de Triomphe Hotel	962.0
+Rubens At The Palace	10643.0
+every hotel Piccadilly	7297.0
+Millennium Gloucester Hotel London	56877.0
+Novotel Suites Paris Expo Porte de Versailles	3603.0
+K K H tel Cayr Saint Germain des Pr s	6183.0
+Fielding Hotel	9282.0
+DoubleTree by Hilton Hotel London Marble Arch	7377.0
+Holiday Inn London West	15950.0
+The Soho Hotel	1699.0
+Le Grand H tel de Normandie	1217.0
+Monsieur Cadet Hotel Spa Ex Meyerhold Spa 	1026.0
+H tel de La Tamise Esprit de France	581.0
+Buddha Bar Hotel Paris	1849.0
+Le A	1121.0
+Holiday Inn Paris Notre Dame	5109.0
+Mercure Paris Opera Garnier	1485.0
+Maison Albar Hotel Paris Op ra Diamond	4893.0
+Grand H tel Du Palais Royal	2533.0
+Best Western Aulivia Op ra	1844.0
+Renaissance Paris Vendome Hotel	337.0
+Hotel Park Lane Paris	1931.0
+Little Palace Hotel	6145.0
+Napoleon Paris	3105.0
+Andaz London Liverpool Street	8717.0
+Novotel London Canary Wharf	3010.0
+H tel de Lille	1567.0
+H tel Concorde Montparnasse	13072.0
+Suites H tel Helzear Montparnasse	2748.0
+Renaissance Paris Republique Hotel Spa	123.0
+citizenM Tower of London	26294.0
+Chiswick Rooms	6129.0
+Claridge s	2348.0
+La Suite West Hyde Park	6188.0
+St James Court A Taj Hotel London	35449.0
+Elys es R gencia	3741.0
+H tel De Sers Champs Elys es Paris	1207.0
+Hotel le Lapin Blanc	2555.0
+41	915.0
+Shaftesbury Suites London Marble Arch	5548.0
+Grange Strathmore Hotel	9979.0
+H tel R de Paris Boutique Hotel	1554.0
+Villa Panth on	5297.0
+Trinit Haussmann	2109.0
+The RE London Shoreditch	19226.0
+London City Suites	12619.0
+H tel Crayon Rouge by Elegancia	1558.0
+Mercure Paris Opera Grands Boulevards	1161.0
+St George s Hotel Wembley	20883.0
+Hotel Le Saint Gregoire	167.0
+Le Mathurin Hotel Spa	2328.0
+H tel Saint Paul Rive Gauche	519.0
+The Justin James Hotel	4491.0
+Millennium Hotel London Mayfair	25447.0
+H tel de Varenne	1242.0
+A La Villa Madame	347.0
+The Curtain	979.0
+45 Park Lane Dorchester Collection	189.0
+Grange Tower Bridge Hotel	13384.0
+Le Tsuba Hotel	672.0
+St Martins Lane A Morgans Original	6972.0
+H tel Barri re Le Fouquet s	325.0
+Novotel London Blackfriars	6889.0
+Hotel Villa Lafayette Paris IX	306.0
+Canary Riverside Plaza Hotel	1829.0
+The Marylebone Hotel	11191.0
+L Empire Paris	1770.0
+The Zetter Townhouse Clerkenwell	590.0
+The Whitechapel	6431.0
+Suites H tel Helzear Champs Elys es	4774.0
+St George Hotel	3082.0
+Best Western Premier Op ra Faubourg Ex Hotel Jules 	5812.0
+Pershing Hall	194.0
+The Premier Notting Hill	28168.0
+H tel Pont Royal	1351.0
+Le G n ral H tel	2135.0
+H tel Th r se	1475.0
+Best Western Premier Trocadero La Tour	749.0
+Holiday Inn London Whitechapel	5804.0
+Washington Mayfair Hotel	13768.0
+Radisson Blu Edwardian New Providence Wharf	18705.0
+Hilton London Tower Bridge	15808.0
+Novotel London Wembley	18149.0
+Le Relais M dicis	718.0
+Les Jardins De La Villa Spa	1316.0
+Warwick Paris Former Warwick Champs Elysees 	6222.0
+Park Hyatt Paris Vendome	327.0
+My Home In Paris	1518.0
+Mercure Paris Op ra Faubourg Montmartre	761.0
+Best Western Plus Elys e Secret	2205.0
+Villa Beaumarchais	5524.0
+H tel Mansart Esprit de France	1415.0
+Holiday Inn Paris Gare de l Est	21555.0
+Le Cinq Codet	4879.0
+La Maison Favart	1200.0
+Le Pradey	903.0
+Threadneedles Autograph Collection	2821.0
+Sanderson A Morgans Hotel	5025.0
+The Arch London	1702.0
+Commodore Hotel	31316.0
+Golden Tulip Washington Opera	1506.0
+Residence Henri IV	2009.0
+Hotel du Collectionneur Arc de Triomphe	5791.0
+The Westbourne Hyde Park	4453.0
+Hotel Le Mareuil	409.0
+Mercure Paris Champs Elys es	969.0
+Best Western Le 18 Paris	1776.0
+The Lodge Hotel Putney	6650.0
+Shaftesbury Hyde Park International	20690.0
+The Montcalm At Brewery London City	26391.0
+H tel Powers	3174.0
+Villa Lut ce Port Royal	1528.0
+Oceania Paris Porte De Versailles	5438.0
+BEST WESTERN Maitrise Hotel Maida Vale	25699.0
+Novotel London City South	5228.0
+The Dorchester Dorchester Collection	2806.0
+Mercure Paris Bastille Marais	775.0
+Hilton London Angel Islington	8386.0
+Fifty Four Boutique Hotel	5649.0
+Chateau Frontenac	2150.0
+H tel Du Jeu De Paume	1599.0
+The Sumner Hotel	4381.0
+W12 Rooms	6522.0
+Renaissance Paris Le Parc Trocadero Hotel	370.0
+Shaftesbury Premier London Paddington	39003.0
+Hotel Carlton s Montmartre	1822.0
+Hotel Monge	954.0
+Mimi s Hotel Soho	11007.0
+Victoires Opera	845.0
+Holiday Inn London Oxford Circus	8803.0
+Dorsett Shepherds Bush	26178.0
+New Linden Hotel	20661.0
+Le Burgundy Paris	2597.0
+Hotel Sezz Paris	254.0
+Hotel Montaigne	2206.0
+Hotel Royal Elys es	509.0
+Mercure Paris Bercy Biblioth que	2058.0
+Hazlitt s	3232.0
+Park Plaza London Waterloo	14023.0
+citizenM London Shoreditch	12100.0
+H tel Balzac	2566.0
+Victoria Palace Hotel	464.0
+Hotel Eug ne en Ville	4794.0
+Newhotel Roblin	4570.0
+Le Relais Montmartre	1818.0
+Amarante Beau Manoir	3907.0
+Hotel Maison FL	1325.0
+Balmoral Champs Elys es	1075.0
+The Chess Hotel	3621.0
+AC Hotel Paris Porte Maillot by Marriott	899.0
+B Montmartre	623.0
+H tel Regent s Garden	961.0
+Mercure Paris 15 Porte de Versailles	419.0
+Hotel Le Placide Saint Germain Des Pr s	509.0
+Hotel VIU Milan	1342.0
+Sofitel London St James	4977.0
+Baglioni Hotel London The Leading Hotels of the World	2011.0
+DoubleTree by Hilton London Islington	13842.0
+Nell Hotel Suites	440.0
+Rydges Kensington Hotel	10468.0
+Club Quarters Hotel Lincoln s Inn Fields	13378.0
+Novotel Paris Centre Tour Eiffel	11179.0
+Best Western Plus 61 Paris Nation Hotel	1559.0
+Hotel Monsieur	2625.0
+Hotel Saint Dominique	1678.0
+Clayton Hotel Chiswick	18384.0
+Park Plaza London Park Royal	5004.0
+Hotel Malte Astotel	331.0
+Best Western Palm Hotel	22020.0
+InterContinental Paris Avenue Marceau	660.0
+Mercure Tour Eiffel Grenelle	750.0
+Mercure Paris Bastille Saint Antoine	426.0
+Boutique H tel Konfidentiel	346.0
+The Piccadilly London West End	13152.0
+R Kipling by Happyculture	1600.0
+Hotel Des Saints Peres Esprit de France	1424.0
+Best Western Hotel Montmartre Sacr Coeur	6733.0
+Kingsway Hall Hotel	12240.0
+Mandarin Oriental Hyde Park London	1558.0
+H tel Jos phine by Happyculture	1480.0
+Radisson Blu Edwardian Vanderbilt	26672.0
+Hotel Le Chat Noir	2385.0
+Hotel Cafe Royal	5216.0
+Mercure Vaugirard Paris Porte De Versailles	1989.0
+Grange Rochester Hotel	7358.0
+Gainsborough Hotel	25438.0
+H tel Bel Ami	1846.0
+St James Hotel Club Mayfair	2945.0
+Apex London Wall Hotel	5468.0
+Seraphine Kensington Gardens Hotel	7885.0
+Hotel de Nell	1046.0
+9Hotel Republique	3102.0
+Goralska R sidences H tel Paris Bastille	388.0
+Club Quarters Hotel Gracechurch	17779.0
+Grange Blooms Hotel	3901.0
+DoubleTree by Hilton Hotel London Tower of London	57308.0
+H tel Baume	2498.0
+Hotel West End	1671.0
+Arioso	651.0
+H tel Lancaster Paris Champs Elys es	1160.0
+Melia Paris Notre Dame	1200.0
+Hotel Mademoiselle	3123.0
+Hotel Les Bains Paris	377.0
+Hotel Ares Eiffel	3005.0
+Francois 1er	1626.0
+H tel Montmartre Mon Amour	1131.0
+Hotel Monceau Wagram	2657.0
+Novotel London Excel	10195.0
+Paris Marriott Champs Elysees Hotel	1603.0
+Mercure London Bridge	7531.0
+H tel Exquis by Elegancia	2252.0
+Grange Wellington Hotel	7481.0
+Les Jardins Du Marais	4507.0
+Hotel Cavendish	25710.0
+Park Grand London Hyde Park	19625.0
+Shaftesbury Metropolis London Hyde Park	22603.0
+Radisson Blu Champs Elys es Paris	2207.0
+Hotel Eiffel Blomet	117.0
+Holiday Inn Paris Gare Montparnasse	6622.0
+H tel Thoumieux	508.0
+The Exhibitionist Hotel	17174.0
+Auteuil Tour Eiffel	4059.0
+Ten Manchester Street Hotel	3278.0
+Mercure London Hyde Park	4639.0
+London Bridge Hotel	2338.0
+Derby Alma	1946.0
+The Beaumont Hotel	1229.0
+Mercure Paris Gobelins Place d Italie	288.0
+H tel Original Paris	330.0
+The Grand at Trafalgar Square	12731.0
+Club Quarters Hotel Trafalgar Square	14994.0
+The Laslett	4978.0
+Novotel Paris Les Halles	10360.0
+Melia Paris Vendome	674.0
+Chambiges Elys es	1964.0
+MARQUIS Faubourg St Honor Relais Ch teaux	581.0
+H tel Le Bellechasse Saint Germain	792.0
+Hotel Verneuil Saint Germain	1013.0
+Hotel Daniel Paris	255.0
+Residence Du Roy	3335.0
+La Maison Champs Elys es	977.0
+H tel Arvor Saint Georges	1627.0
+The Belgrave Hotel	14886.0
+TheWesley	23738.0
+Le M ridien Etoile	1319.0
+The Hoxton Shoreditch	10812.0
+The Cavendish London	6235.0
+Avo Hotel	2633.0
+Hotel 82 London	21086.0
+La Clef Tour Eiffel	4073.0
+Best Western Plus Seraphine Hammersmith Hotel	14271.0
+La Chambre du Marais	893.0
+Novotel Paris Centre Bercy	3128.0
+The Zetter Hotel	2638.0
+Grosvenor House Suites by Jumeirah Living	1550.0
+Hotel OFF Paris Seine	2435.0
+Snob Hotel by Elegancia	1154.0
+Sofitel Paris Baltimore Tour Eiffel	3174.0
+88 Studios	10987.0
+Adria Boutique Hotel	4569.0
+Best Western Premier Faubourg 88	2870.0
+Hotel De Vigny	1229.0
+Sydney House Chelsea	3929.0
+Radisson Blu Edwardian Bloomsbury Street	17949.0
+H tel Le Relais Saint Germain	420.0
+Hotel Moonlight	3524.0
+Villa Alessandra	517.0
+Ibis Styles Paris Gare Saint Lazare	508.0
+Golden Tulip Opera de Noailles	1853.0
+Best Western Premier Op ra Li ge	2146.0
+H tel Cristal Champs Elys es	939.0
+Best Western Le Jardin de Cluny	1526.0
+Le Pigalle Hotel	680.0
+Relais H tel du Vieux Paris	1921.0
+Victoire Germain	679.0
+Le Littr 	673.0
+Hotel Le Sainte Beuve	890.0
+Hotel Villa Saxe Eiffel	1239.0
+Thistle Hyde Park	6350.0
+Holiday Inn Paris Saint Germain des Pr s	4075.0
+Hotel Spa La Belle Juliette	1187.0
+Rochester Champs Elysees	2284.0
+DoubleTree by Hilton London West End	16313.0
+Hotel d Orsay Esprit de France	2210.0
+Mercure Paris Opera Louvre	2589.0
+La Villa des Ternes	1558.0
+Holiday Inn London Kensington Forum	29293.0
+Radisson Blu Edwardian Kenilworth	22057.0
+H tel Monna Lisa Champs Elys es	1240.0
+H tel Waldorf Trocad ro	1009.0
+Best Western Amiral Hotel	2471.0
+Hotel Les Th tres	2208.0
+Mercure Paris 17 me Saint Lazare Monceau	189.0
+Melia White House Hotel	11801.0
+Sir Albert Hotel	5902.0
+The Waldorf Hilton	18699.0
+Corendon Vitality Hotel Amsterdam	19189.0
+Hotel Bellevue Wien	1127.0
+Maison Borella	1625.0
+Hotel Am Konzerthaus Vienna MGallery by Sofitel	3236.0
+Park Hyatt Vienna	1661.0
+Hilton Vienna	11558.0
+Catalonia Port	2490.0
+Hampshire Hotel Rembrandt Square Amsterdam	17046.0
+Eurostars Angli	1418.0
+Pillows Anna van den Vondel Amsterdam	789.0
+Schlosshotel R mischer Kaiser	3398.0
+Hotel Mailberger Hof	4925.0
+Best Western Delphi Hotel	1610.0
+Apollofirst Boutique Hotel	4806.0
+Hilton Amsterdam	5233.0
+Apollo Hotel Amsterdam	16047.0
+Catalonia Catedral	6194.0
+Element Amsterdam	6935.0
+Axel Hotel Barcelona Urban Spa Adults Only	13348.0
+Cram	2546.0
+Urban Lodge Hotel	17034.0
+Novotel Wien City	4688.0
+The Levante Parliament A Design Hotel	6999.0
+Room Mate Gerard	285.0
+H10 Marina Barcelona	7198.0
+Barcelona Princess	19249.0
+Novotel Barcelona City	5282.0
+The Gates Diagonal Barcelona	7252.0
+AC Hotel Diagonal L Illa a Marriott Lifestyle Hotel	983.0
+Wilson Boutique Hotel	2438.0
+NH Hesperia Barcelona Presidente	2206.0
+Hilton Barcelona	848.0
+Vincci Mae	1998.0
+Fairmont Rey Juan Carlos I	4399.0
+Pullman Barcelona Skipper	6601.0
+Hotel Ciutadella Barcelona	2335.0
+Catalonia Atenas	21809.0
+Tryp Barcelona Apolo Hotel	4486.0
+Sansi Pedralbes	699.0
+Crowne Plaza Barcelona Fira Center	1678.0
+Gran Hotel Torre Catalunya	6253.0
+H10 Itaca	2507.0
+Hotel Abbot	750.0
+Sercotel Amister Art Hotel Barcelona	1710.0
+Melia Barcelona Sarri 	2061.0
+ABaC Restaurant Hotel Barcelona GL Monumento	1092.0
+Col n Hotel Barcelona	6979.0
+Hotel SB Icaria Barcelona	17513.0
+Hotel Barcelona Universal	3626.0
+Aparthotel Arai 4 Superior	2754.0
+NH Collection Barcelona Podium	2116.0
+Hotel Ronda Lesseps	1625.0
+Hotel Barcelona Center	4629.0
+Olivia Balmes Hotel	5711.0
+Catalonia Diagonal Centro	4518.0
+The Capital	1463.0
+Vienna Sporthotel	993.0
+Megaro Hotel	11987.0
+Hotel De Hallen	6742.0
+AC Hotel Victoria Suites a Marriott Lifestyle Hotel	674.0
+Catalonia Plaza Catalunya	16002.0
+Hotel Regina	8896.0
+Hotel Pulitzer	6833.0
+Hotel Alimara	3671.0
+Thistle Holborn The Kingsley	12265.0
+Hotel Boltzmann	1559.0
+The Westbury A Luxury Collection Hotel Mayfair London	5290.0
+Petit Palace Boqueria Garden	16911.0
+Mercer House B ria BCN	2118.0
+Hotel ViennArt am Museumsquartier	8846.0
+Crowne Plaza London Battersea	12332.0
+Amba Hotel Marble Arch	20046.0
+Taj 51 Buckingham Gate Suites and Residences	984.0
+Hotel Sans Souci Wien	3542.0
+Catalonia La Pedrera	2620.0
+Ohla Eixample	4744.0
+Jumeirah Carlton Tower	1194.0
+Hotel Villa Emilia	2975.0
+TWO Hotel Barcelona by Axel 4 Sup Adults Only	9932.0
+Hotel Best Western PLUS Alfa Aeropuerto	12628.0
+AC Hotel Irla a Marriott Lifestyle Hotel	204.0
+Hotel Barcelona Catedral	13082.0
+Arenas Atiram Hotels	1295.0
+Holiday Inn London Regent s Park	12217.0
+Senator Barcelona Spa Hotel	13083.0
+Thistle Euston	19248.0
+The Connaught	727.0
+Room Mate Anna	4080.0
+Gran Hotel La Florida	5396.0
+Ayre Hotel Caspe	9639.0
+Doubletree By Hilton London Greenwich	17820.0
+Chasse Hotel	2626.0
+The Chelsea Harbour Hotel	9510.0
+Palais Coburg Residenz	172.0
+Zenit Borrell	2005.0
+U232 Hotel	2369.0
+Eurostars Monumental	4490.0
+Pestana Arena Barcelona	1939.0
+Grange City Hotel	7306.0
+Holiday Inn London Bloomsbury	19609.0
+The Mirror Barcelona	2425.0
+Worldhotel Cristoforo Colombo	7962.0
+IH Hotels Milano Puccini	3295.0
+Best Western Hotel City	2289.0
+Ch teau Monfort Relais Ch teaux	3223.0
+Palazzo Parigi Hotel Grand Spa Milano	1018.0
+Hotel Lloyd	3974.0
+Hotel Romana Residence	7118.0
+Hotel Crivi s	1120.0
+Hotel Galileo	4386.0
+Carlyle Brera Hotel	2990.0
+Boscolo Milano Autograph Collection	4676.0
+Mokinba Hotels King	3190.0
+Qualys Hotel Nasco	3739.0
+Enterprise Hotel Design Boutique	4026.0
+Tryp Barcelona Condal Mar Hotel	2486.0
+NH Collection Barcelona Constanza	3427.0
+NH Collection Amsterdam Grand Hotel Krasnapolsky	27391.0
+Park Plaza Victoria Amsterdam	31818.0
+Hotel Amsterdam De Roode Leeuw	3245.0
+Swiss tel Amsterdam	12338.0
+City Rooms	1131.0
+Holiday Inn Amsterdam	5618.0
+Jaz Amsterdam	20039.0
+Best Western Premier Hotel Couture	29879.0
+Mercer Hotel Barcelona	2049.0
+Mercure Vienna First	1157.0
+Melia Barcelona Sky 4 Sup	1222.0
+Bilderberg Garden Hotel	13228.0
+Ako Suites Hotel	2509.0
+Eurostars Cristal Palace	7514.0
+HCC St Moritz	1722.0
+Petit Palace Museum	5582.0
+NH Amsterdam Noord	2350.0
+Primero Primera	819.0
+Hotel 4 Barcelona	2427.0
+Melia Vienna	10958.0
+Graben Hotel	1619.0
+Medinaceli	2101.0
+Grand Hotel Downtown	10414.0
+Amadi Park Hotel	7442.0
+Hotel Casa Camper	2233.0
+Holiday Inn London Wembley	33928.0
+Austria Trend Hotel Lassalle Wien	2588.0
+H10 Art Gallery 4 Sup	4458.0
+Hotel Granados 83	2259.0
+Best Western PLUS Epping Forest	8083.0
+NH Hesperia Barcelona del Mar	2787.0
+Novotel Amsterdam City	12022.0
+St Pancras Renaissance Hotel London	24654.0
+DoubleTree By Hilton London Excel	26005.0
+The Guesthouse Vienna	2947.0
+Hotel Johann Strauss	2132.0
+Hotel Mercure Wien Westbahnhof	1592.0
+Savoy Hotel Amsterdam	9105.0
+Hotel Okura Amsterdam	8616.0
+Hotel Eitlj rg	200.0
+Hotel V Fizeaustraat	4558.0
+Mercure Wien Zentrum	2380.0
+Best Western Premier Kaiserhof Wien	3689.0
+FourSide Hotel Suites Vienna	1605.0
+Millennium Copthorne Hotels at Chelsea Football Club	16000.0
+IH Hotels Milano Ambasciatori	7394.0
+Crowne Plaza Amsterdam South	3463.0
+Durrants Hotel	14869.0
+Mercure Secession Wien	1338.0
+Hotel Well and Come	7378.0
+City Hotel Deutschmeister	1693.0
+Ayre Hotel Gran V a	11101.0
+Sunotel Central	12539.0
+Silken Gran Hotel Havana	4833.0
+Cotton House Hotel Autograph Collection	1395.0
+Hotel Vueling Bcn by HC	4099.0
+H10 Casanova	2461.0
+Avenida Palace	15609.0
+Acta Atrium Palace	9026.0
+Hotel Indigo Barcelona Plaza Catalunya	2565.0
+Catalonia Passeig de Gr cia 4 Sup	6094.0
+Hotel Palace GL	3644.0
+Grupotel Gran Via 678	6100.0
+Hotel Casa Bonay	7942.0
+The Cumberland A Guoman Hotel	36040.0
+FourSide Hotel Vienna City Center	3625.0
+Hotel Vienna	4452.0
+London Marriott Hotel Grosvenor Square	7199.0
+Rainers Hotel Vienna	3554.0
+Pol Grace Hotel	6700.0
+Austria Trend Hotel Bosei Wien	5563.0
+Pertschy Palais Hotel	5495.0
+Alma Boutique Hotel	1997.0
+Flemings Mayfair	9456.0
+Hilton London Green Park	11515.0
+COMO The Halkin	147.0
+Four Seasons Hotel London at Park Lane	751.0
+Hilton Vienna Danube Waterfront	8479.0
+Hotel 55	5951.0
+The Harmonie Vienna	2477.0
+Hotel Park Villa	837.0
+WestCord Fashion Hotel Amsterdam	23700.0
+The Hoxton Amsterdam	5852.0
+Ambassade Hotel	5715.0
+Banks Mansion All Inclusive Hotel	4022.0
+Waldorf Astoria Amsterdam	2076.0
+Senator Hotel Vienna	4803.0
+Hotel J ger	428.0
+Steigenberger Hotel Herrenhof	7028.0
+Radisson Blu Style Hotel Vienna	5662.0
+Hilton Garden Inn Vienna South	302.0
+Austria Trend Parkhotel Sch nbrunn Wien	8824.0
+Club Hotel Cortina	902.0
+Arion Cityhotel Vienna und Appartements	9003.0
+NH Amsterdam Museum Quarter	5005.0
+Gartenhotel Altmannsdorf Hotel 1	160.0
+Hilton London Kensington Hotel	38159.0
+Hotel Mercure Wien City	2128.0
+Courtyard by Marriott Amsterdam Arena Atlas	5947.0
+Holiday Inn Amsterdam Arena Towers	4291.0
+The Lanesborough	310.0
+Amadi Panorama Hotel	9532.0
+Room Mate Aitana	14702.0
+DoubleTree by Hilton London Chelsea	8787.0
+Hotel G tico	399.0
+Hotel JL No76	5245.0
+Bilderberg Hotel Jan Luyken	6372.0
+Gran Hotel Barcino	2333.0
+Aparthotel Atenea Barcelona	3229.0
+Mercure Hotel Amsterdam City South	15568.0
+Am Spiegeln	617.0
+Hotel Gallitzinberg	380.0
+InterContinental Wien	1949.0
+Dutch Design Hotel Artemis	10549.0
+Mercure Josefshof Wien	8479.0
+Fleming s Selection Hotel Wien City	15003.0
+Cordial Theaterhotel Wien	1159.0
+Vincci Bit	8488.0
+Hollmann Beletage Design Boutique	1122.0
+Hotel Bristol A Luxury Collection Hotel	1162.0
+Hotel Imperial A Luxury Collection Hotel	808.0
+The Ring Vienna s Casual Luxury Hotel	3716.0
+Grand Hotel Wien	3973.0
+Hotel Ambassador	4548.0
+Austria Trend Hotel Astoria Wien	7015.0
+Austria Trend Hotel Europa Wien	7248.0
+Hotel Schani Wien	7007.0
+Ozo Hotel	12159.0
+Renaissance Amsterdam Hotel	12206.0
+Canal House	2848.0
+The Toren	3678.0
+The Dylan Amsterdam	1800.0
+Great Northern Hotel A Tribute Portfolio Hotel London	11729.0
+De Vere Devonport House	21105.0
+K K Hotel Maria Theresia	7967.0
+Small Luxury Hotel Altstadt Vienna	1826.0
+Der Wilhelmshof	3122.0
+Park Plaza Vondelpark Amsterdam	15006.0
+Hotel Bagu s	1341.0
+Hotel 1898	7081.0
+Hotel Serhs Rivoli Rambla	6822.0
+Eurostars Ramblas	5891.0
+Hilton London Wembley	42953.0
+Corus Hotel Hyde Park	26154.0
+London Elizabeth Hotel	6968.0
+Lancaster London	11934.0
+Hotel Daniel Vienna	5558.0
+Eurostars Embassy	2586.0
+BEST WESTERN PLUS Amedia Wien	6663.0
+Mercure Grand Hotel Biedermeier Wien	2967.0
+Hotel Rathaus Wein Design	3618.0
+NH Collection Milano President	9730.0
+Hotel Dieci	678.0
+Royal Ramblas	10430.0
+Best Western Blue Tower Hotel	19751.0
+Hampshire Hotel Amsterdam American	25349.0
+Ilunion Bel Art	1492.0
+25hours Hotel beim MuseumsQuartier	11135.0
+Hotel Topazz	2986.0
+Hampshire Hotel The Manor Amsterdam	7622.0
+Hotel Kavalier	6784.0
+Ofelias Hotel 4 Sup	1810.0
+Vincci Maritimo	6373.0
+London Marriott Hotel County Hall	5056.0
+The Level at Melia Barcelona Sky	566.0
+Eurohotel Diagonal Port	1182.0
+Hotel Derby	928.0
+Hotel Gran Derby Suites	1253.0
+Jumeirah Lowndes Hotel	2138.0
+Catalonia Magdalenes	3573.0
+Expo Hotel Barcelona	16320.0
+The Corner Hotel	1327.0
+Best Western Premier Hotel Dante	2774.0
+Hotel Balmes	4263.0
+Alexandra Barcelona A DoubleTree by Hilton	2053.0
+Alma Barcelona GL	2335.0
+Room Mate Carla	3978.0
+The Mandeville Hotel	13388.0
+Hallmark Hotel London Chigwell Prince Regent	14851.0
+Upper Diagonal	2200.0
+Falkensteiner Hotel Wien Margareten	3114.0
+Holiday Inn Vienna City	734.0
+pentahotel Vienna	2312.0
+IntercityHotel Wien	6043.0
+Boutiquehotel Das Tyrol	1050.0
+NH Wien City	4158.0
+Hotel Corvinus	1335.0
+NH Collection Wien Zentrum	4265.0
+Aparthotel Mariano Cubi Barcelona	2036.0
+Hotel Arts Barcelona	6887.0
+Leonardo Hotel Vienna	15501.0
+JUFA Hotel Wien	6916.0
+Golden Tulip Amsterdam West	30655.0
+Eurostars Grand Marina Hotel GL	22471.0
+Pakat Suites Hotel	2052.0
+Guitart Grand Passage	3402.0
+Hotel Rekord	871.0
+Catalonia Barcelona 505	2357.0
+Mercure Amsterdam Sloterdijk Station	14365.0
+DoubleTree by Hilton Hotel Amsterdam NDSM Wharf	7770.0
+Hotel V Nesplein	6950.0
+Fleming s Conference Hotel Wien	5058.0
+ARCOTEL Wimberger	2976.0
+Hotel Schild	2313.0
+Acta CITY47	6384.0
+De L Europe Amsterdam	2645.0
+NH Collection Amsterdam Doelen	5916.0
+Hotel Die Port van Cleve	6692.0
+INK Hotel Amsterdam MGallery by Sofitel	14880.0
+Inntel Hotels Amsterdam Centre	11955.0
+Apex City Of London Hotel	13753.0
+Mercure Hotel Amsterdam Centre Canal District	4715.0
+Onix Liceo	5204.0
+Abba Sants	1967.0
+NH Sants Barcelona	1909.0
+COMO Metropolitan London	2105.0
+Aloft London Excel	21822.0
+Ham Yard Hotel	1836.0
+DoubleTree by Hilton Amsterdam Centraal Station	21668.0
+Das Opernring Hotel	2362.0
+Exe Vienna	9231.0
+Mercure Hotel Amsterdam West	11632.0
+Luxury Suites Amsterdam	2793.0
+Sofitel Legend The Grand Amsterdam	2097.0
+Sir Adam Hotel	2001.0
+Hotel Grums Barcelona	5259.0
+Hotel Spa Villa Olimpica Suites	13572.0
+Sall s Hotel Pere IV	12965.0
+Hampton by Hilton Amsterdam Centre East	6469.0
+Hotel Beethoven Wien	1803.0
+Roomz Vienna	623.0
+Silken Concordia	3816.0
+Grosvenor House A JW Marriott Hotel	5182.0
+Hotel Am Parkring	4815.0
+Vienna Marriott Hotel	3794.0
+H10 Port Vell 4 Sup	4547.0
+Hotel Margot House	1702.0
+Condes de Barcelona	4876.0
+Monument Hotel	2555.0
+Occidental Atenea Mar Adults Only	11935.0
+Hotel Front Maritim	4011.0
+AC Hotel Barcelona Forum a Marriott Lifestyle Hotel	6250.0
+Duquesa de Cardona	3948.0
+Hotel The Serras	1680.0
+Eurostars Bcn Design	5082.0
+Mandarin Oriental Barcelona	1015.0
+Hotel Casa Fuster G L Monumento	3904.0
+Sixtytwo Hotel	1747.0
+Majestic Hotel Spa Barcelona GL	6811.0
+Royal Passeig de Gracia	12174.0
+K K Hotel Picasso	6115.0
+AC Hotel Sants a Marriott Lifestyle Hotel	1370.0
+Hilton Diagonal Mar Barcelona	3667.0
+Hotel Palais Strudlhof	1914.0
+Renaissance Barcelona Hotel	807.0
+Claris Hotel Spa GL	4358.0
+H10 Casa Mimosa 4 Sup	1445.0
+Catalonia Ramblas 4 Sup	16579.0
+Hotel Midmost	1169.0
+Arthotel ANA Westbahn	1162.0
+The Rookery	3550.0
+Hotel Wandl	5339.0
+Hotel Sacher Wien	1483.0
+ME Milan Il Duca	1788.0
+Hotel Principe Di Savoia	2882.0
+The Westin Palace	2868.0
+Glam Milano	25676.0
+Excelsior Hotel Gallia Luxury Collection Hotel	3512.0
+Rosa Grand Milano Starhotels Collezione	11841.0
+TownHouse 12	1547.0
+Hotel Mozart	8600.0
+Hotel Dei Cavalieri	12196.0
+Best Western Plus Hotel Galles	10966.0
+Starhotels Anderson	9238.0
+Hotel Michelangelo	7448.0
+Hotel Mercure Milano Centro	935.0
+NYX Milan	4418.0
+The Yard Milano	1935.0
+Hotel Sunflower	1099.0
+Sheraton Grand London Park Lane	2804.0
+M venpick Hotel Amsterdam City Centre	10418.0
+Silken Ramblas	8447.0
+Duquesa Suites Barcelona	4686.0
+Hotel SB Diagonal Zero Barcelona 4 Sup	21323.0
+Hotel DO Pla a Reial G L 	1599.0
+W Barcelona	14643.0
+H10 Urquinaona Plaza	6796.0
+Hotel du Louvre in the Unbound Collection by Hyatt	5010.0
+W Paris Op ra	830.0
+Hotel Miramar Barcelona GL	5040.0
+Olivia Plaza Hotel	6730.0
+Catalonia Barcelona Plaza	21496.0
+Barcel Sants	13893.0
+London Marriott Maida Vale	9653.0
+The Langham London	6929.0
+The Ned	6437.0
+Sofitel Vienna Stephansdom	2719.0
+Grand Hotel Amr th Amsterdam	13640.0
+art otel Amsterdam	14462.0
+NH Collection Amsterdam Barbizon Palace	14379.0
+Pulitzer Amsterdam	4300.0
+Dikker en Thijs Fenice Hotel	8435.0
+Andaz Amsterdam Prinsengracht A Hyatt Hotel	3386.0
+Hotel Seven One Seven	371.0
+citizenM Amsterdam	21841.0
+InterContinental Amstel Amsterdam	584.0
+Attica 21 Barcelona Mar	3444.0
+Hotel America Barcelona	940.0
+Golden Tulip Amsterdam Riverside	14769.0
+Catalonia Park Putxet	11233.0
+Hotel Murmuri Barcelona	1398.0
+NH Collection Barcelona Gran Hotel Calder n	3088.0
+H10 Metropolitan 4 Sup	6171.0
+HCC Regente	1461.0
+Barcel Raval	10955.0
+Le M ridien Barcelona	1884.0
+Ilunion Barcelona	12928.0
+Austria Trend Hotel Rathauspark Wien	5913.0
+Hotel Landhaus Fuhrgassl Huber	624.0
+Hotel Parco di Sch nbrunn Vienna	2415.0
+Catalonia Born	7016.0
+NH Amsterdam Caransa	5334.0
+NH Amsterdam Schiller	12725.0
+Royal Amsterdam Hotel	3345.0
+Lindner Hotel Am Belvedere	2411.0
+NH Wien Belvedere	3617.0
+Austria Trend Hotel Savoyen Vienna	10624.0
+Austria Trend Hotel Doppio Wien	5383.0
+K West Hotel Spa	15169.0
+Appartement Hotel an der Riemergasse	2783.0
+Saint SHERMIN bed breakfast champagne	2757.0
+The Wittmore Adults Only	1246.0
+Le Meridien Vienna	11301.0
+The College Hotel	4335.0
+Hotel Roemer Amsterdam	6190.0
+Hotel mbit Barcelona	4001.0
+Catalonia Eixample 1864	9686.0
+Negresco Princess 4 Sup	9381.0
+Petit Palace Barcelona	3278.0
+Roger de Ll ria	1676.0
+Hotel Garbi Millenni	1630.0
+Vincci Gala	2234.0
+Catalonia Square 4 Sup	4259.0
+H10 Universitat	4676.0
+Hotel Regina	4727.0
+Bcn Urban Hotels Gran Rosellon	6578.0
+Gallery Hotel	3717.0
+Hotel Omm	1665.0
+Ayre Hotel Rosell n	7715.0
+Evenia Rossello	1228.0
+Hotel Imlauer Wien	3076.0
+Hotel Nestroy Wien	1935.0
+Hotel Lam e	2857.0
+Crowne Plaza London Docklands	28466.0
+K K Palais Hotel	3327.0
+Radisson Blu Hotel Amsterdam	21724.0
+Catalonia Rigoletto	3840.0
+Hotel Neri	1218.0
+Capri by Fraser Barcelona	8135.0
+Hotel Espa a Ramblas	10999.0
+Abba Garden	3377.0
+Zenit Barcelona	1391.0
+Hyatt Regency Amsterdam	1442.0
+Austria Trend Hotel Schloss Wilhelminenberg Wien	4202.0
+Copthorne Tara Hotel London Kensington	67252.0
+Courtyard by Marriott Vienna Schoenbrunn	2006.0
+Arthotel ANA Prime	5329.0
+Fletcher Hotel Amsterdam	17151.0
+Austria Trend Hotel Park Royal Palace Vienna	8130.0
+Falkensteiner Hotel Wien Zentrum Schottenfeld	1842.0
+Hilton Vienna Plaza	6153.0
+Palais Hansen Kempinski Vienna	2574.0
+Hotel de France Wien	16577.0
+Grand Ferdinand Vienna Your Hotel In The City Center	10771.0
+Hotel Am Schubertring	5876.0
+The Ritz Carlton Vienna	2217.0
+Hotel K nig von Ungarn	2167.0
+Hotel Domizil	2983.0
+Hotel Capricorno	5162.0
+Hotel Advance	333.0
+Derag Livinghotel Kaiser Franz Joseph Vienna	2814.0
+Room Mate Giulia	6016.0
+Simm s Hotel	1315.0
+Hotel Esther a	24900.0
+Hotel Royal	2818.0
+Sloane Square Hotel	8231.0
+Best Western Plus Hotel Blue Square	14326.0
+Austria Trend Hotel Ananas Wien	11678.0
+Hotel Zeitgeist Vienna Hauptbahnhof	1462.0
+AZIMUT Hotel Vienna	2910.0
+Hilton London Canary Wharf	21654.0
+Grange Holborn Hotel	7236.0
+WestCord Art Hotel Amsterdam 4 stars	8862.0
+W Amsterdam	5477.0
+NH City Centre Amsterdam	18581.0
+The Stafford London	3803.0
+The Tower A Guoman Hotel	30187.0
+Ramada Apollo Amsterdam Centre	41481.0
+Amsterdam Marriott Hotel	8344.0
+Park Hotel	14137.0
+NH Amsterdam Centre	9598.0
+DO CO Hotel Vienna	2241.0
+Hotel Am Stephansplatz	1245.0
+The Savoy	7678.0
+The May Fair Hotel	16081.0
+Best Western Hotel Pension Arenberg Wien Zentrum	6938.0
+Hotel Stefanie	9639.0
+Hotel City Central	6799.0
+Amba Hotel Charing Cross	9858.0
+Hotel Das Tigra	4876.0
+Holiday Inn London Brent Cross	6956.0
+Bermondsey Square Hotel A Bespoke Hotel	7486.0
+Courtyard by Marriott Vienna Prater Messe	3169.0
+NH Barcelona Stadium	2264.0
+Imperial Riding School Renaissance Vienna Hotel	6702.0
+Aparthotel Adagio Vienna City	7563.0
+Mercure Barcelona Condor	1129.0
+H10 Cubik 4 Sup	5019.0
+Sunotel Club Central	7503.0
+Conservatorium Hotel	2531.0
+NH Amsterdam Zuid	5672.0
+Hotel Tocq	768.0
+The Square Milano Duomo	9877.0
+Mandarin Oriental Milan	595.0
+Art Hotel Navigli	5494.0
+Hotel Balmoral	2536.0
+Brunelleschi Hotel	8238.0
+Camperio House Suites Apartments	1951.0
+TownHouse 33	984.0
+Hotel Regina	566.0
+Hotel Capitol Milano	966.0
+Hotel Clerici	1683.0
+UNA Hotel Cusani	3514.0
+Hotel Pierre Milano	1379.0
+MiHotel	396.0
+Hotel Milano Scala	3263.0
+IH Hotels Milano Gioia	12136.0
+Style Hotel	1278.0
+Andreola Central Hotel	3408.0
+Hotel Bristol	1189.0
+Admiral Hotel	596.0
+UNA Hotel Century	5463.0
+Hotel Marconi	4880.0
+Hotel Cavour	5220.0
+Best Western Plus Hotel Felice Casati	4874.0
+Nu Hotel	1633.0
+Hotel Magna Pars Small Luxury Hotels of the World	1279.0
+Mercure Milano Regency	570.0
+Hotel Auriga	3569.0
+Hotel Portello Gruppo Minihotel	925.0
+Idea Hotel Milano San Siro	15365.0
+Windsor Hotel Milano	9036.0
+Four Points Sheraton Milan Center	2132.0
+Four Seasons Hotel Milano	915.0
+IH Hotels Milano Watt 13	4072.0
+LaGare Hotel Milano Centrale MGallery by Sofitel	10350.0
+Barcel Milan	6790.0
+UNA Hotel Scandinavia	1245.0
+Acca Palace	3740.0
+Sina De La Ville	4410.0
+UNA Hotel Mediterraneo	1410.0
+Hotel La Spezia Gruppo MiniHotel	512.0
+Exe Laietana Palace	9891.0
+Grand Hotel Central	4911.0
+Ilunion Almirante	7008.0
+Ohla Barcelona	6906.0
+Barcelona Hotel Colonial	1202.0
+NH Milano Machiavelli	2439.0
+Hotel Sanpi Milano	1978.0
+Best Western Hotel Ascot	4057.0
+Ca Bianca Hotel Corte Del Naviglio	1393.0
+IH Hotels Milano Lorenteggio	4141.0
+Hilton Garden Inn Milan North	9038.0
+DoubleTree By Hilton Milan	1205.0
+Hilton Milan	4407.0
+Hotel Wagner	45.0
+Hotel Boutique Duomo	1863.0
+Hotel Manin	3379.0
+Grand Hotel et de Milan	824.0
+Armani Hotel Milano	1709.0
+Meli Milano	3056.0
+Hotel Mediolanum	1533.0
+UNA Maison Milano	3076.0
+Novotel Milano Linate Aeroporto	3641.0
+Hotel Carrobbio	2535.0
+NH Milano Grand Hotel Verdi	2329.0
+Crowne Plaza Milan City	2131.0
+Leonardo Hotel Milan City Center	3047.0
+Petit Palais Hotel De Charme	1492.0
+Mokinba Hotels Montebianco	1160.0
+Hotel Mentana	2349.0
+Atahotel Contessa Jolanda	2406.0
+Hotel Berna	8562.0
+Best Western Atlantic Hotel	4119.0
+LHP Hotel Napoleon	1334.0
+Ibis Styles Milano Palmanova	403.0
+Mokinba Hotels Baviera	3403.0
+Hotel Vittoria	1670.0
+Starhotels Business Palace	11168.0
+Hotel Mercure Milano Solari	1540.0
+ADI Hotel Poliziano Fiera	2923.0
+Bulgari Hotel Milano	295.0
+Best Western Madison Hotel	5401.0
+The Hub Hotel	2036.0
+Hotel Silver	334.0
+Colombia	1911.0
+Antares Hotel Rubens	1420.0
+STRAF a Member of Design Hotels 	4231.0
+Sina The Gray	1695.0
+Antica Locanda Dei Mercanti	1138.0
+Palazzo Segreti	903.0
+Hotel Santa Marta Suites	2566.0
+TH Street Duomo	990.0
+Uptown Palace	7679.0
+Hotel Manzoni	1744.0
+Senato Hotel Milano	3132.0
+Baglioni Hotel Carlton The Leading Hotels of the World	2098.0
+Hotel Da Vinci	50035.0
+TownHouse Duomo	1304.0
+TownHouse Galleria	3016.0
+Hotel Spadari Al Duomo	1552.0
+Starhotels Ritz	12127.0
+Ramada Plaza Milano	7450.0
+NH Milano Touring	10260.0
+AC Hotel Milano a Marriott Lifestyle Hotel	1374.0
+Hotel Tiziano Park Vita Parcour Gruppo MiniHotels	626.0
+Park Hyatt Milano	1016.0
+Nhow Milan	3009.0
+Holiday Inn Milan Garibaldi Station	666.0
+Milan Suite Hotel	1939.0
+Klima Hotel Milano Fiere	2331.0
+Radisson Blu Hotel Milan	4819.0
+Milan Marriott Hotel	1460.0
+ADI Doria Grand Hotel	2231.0
+Starhotels Echo	7738.0
+Bianca Maria Palace Hotel	7596.0
+Hotel D Este	1742.0
+Hotel Liberty	2087.0
+Best Western Hotel Mirage	1113.0
+Hotel Raffaello	1639.0
+Antares Hotel Accademia	647.0
+Starhotels Tourist	4349.0
+Grand Visconti Palace	4122.0
+Best Western Hotel Major	808.0
+Hotel Lombardia	1446.0
+NH Milano Palazzo Moscova	2152.0
+Best Western Antares Hotel Concorde	2645.0
+Atahotel Linea Uno	2098.0
+Best Western Hotel Astoria	479.0
+Sheraton Diana Majestic	1437.0
+Hotel degli Arcimboldi	25706.0
+Novotel Milano Nord Ca Granda	996.0
+Best Western Hotel St George	5499.0
+NH Carlton Amsterdam	26482.0
+Albus Hotel Amsterdam City Centre	3941.0
+Hotel Vilamar 	3678.0
+Vilana Hotel	773.0
+Acevi Villarroel	8543.0
+Hotel Arkadenhof	297.0
+Hotel Vondel Amsterdam	13860.0
+Hotel Pension Baron am Schottentor	3869.0
+Hotel Atlanta	7298.0
+Park Inn by Radisson Uno City Vienna	5134.0
+NH Danube City	3737.0
+Strandhotel Alte Donau	492.0
+ARCOTEL Kaiserwasser Superior	2809.0
+Mercure Hotel Raphael Wien	3989.0
+Arthotel ANA Boutique Six	7137.0
+Austria Trend Hotel Anatol Wien	2123.0
+Hotel Kaiserin Elisabeth	4925.0
+Boutique Hotel Notting Hill	13738.0
+Crowne Plaza London Ealing	6124.0
+Good Hotel London	13284.0
+Park Plaza Westminster Bridge London	85727.0
+Hotel du Vin Cannizaro House Wimbledon	6312.0
+Amsterdam Canal Residence	1695.0
+Thistle Trafalgar Square The Royal Trafalgar	8048.0
+Corinthia Hotel London	3576.0
+The Student Hotel Amsterdam City	26950.0
+Hotel Prinz Eugen	7449.0
+Hotel Erzherzog Rainer	9251.0
+Das Triest Hotel	787.0
+Suite Hotel 900 m zur Oper	7895.0
+Hotel Amadeus	2007.0
+The Berkeley	1553.0
+Holiday Inn London Kensington	75255.0
+Atlantis Hotel Vienna	7264.0
+[7264.0]
