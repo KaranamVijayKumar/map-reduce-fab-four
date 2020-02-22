@@ -22,3 +22,13 @@ for line in s:
 list1 = [thisValue]
 r.write(thisKey + '\t' + str(thisValue)+'\n')
 r.write(str(list1))
+
+# creating a dictionary for the output2 file
+d = dict((line.strip().split('	') for line in open("output2.txt")))
+
+# creating a list for values in it
+abc = list((d.values()))
+newList = []
+# iterating over the list to find max value
+for each in abc:
+  newList.append(float(each))
