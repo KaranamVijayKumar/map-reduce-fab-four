@@ -11,3 +11,5 @@ counter = 0
 #  the comma seperated value into a list.
 for line in input:
     datalist = line.strip().split(",")
+    # Stored the respective columns into respective variables.
+    Hotel_Name, Review_Total_Negative_Word_Counts = datalist[4], datalist[7]
