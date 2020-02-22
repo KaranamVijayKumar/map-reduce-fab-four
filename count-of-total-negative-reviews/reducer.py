@@ -12,3 +12,5 @@ next(s)
 #  the tab seperated value into a list.
 for line in s:
     data = line.strip().split('\t')
+    # Stored the respective columns into respective variables.
+    Hotel, Review = data
