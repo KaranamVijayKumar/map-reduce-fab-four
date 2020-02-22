@@ -2,3 +2,6 @@
 s = open("01.txt","r")
 # Created the 02.txt file and r variable to write reducer output in 02.txt
 r = open("02.txt", "w")
+# added the variable thisKey with empty String and float variable thisValue
+thisKey = ""
+thisValue = 0.0
