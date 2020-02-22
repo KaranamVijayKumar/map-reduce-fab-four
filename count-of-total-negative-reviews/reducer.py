@@ -14,3 +14,8 @@ for line in s:
     data = line.strip().split('\t')
     # Stored the respective columns into respective variables.
     Hotel, Review = data
+    #  Checking whether the value for hotel is empty or not
+    if Hotel != thisKey:
+        if thisKey:
+            # output the last key value pair result
+             r.write(thisKey + '\t' + str(thisValue)+'\n')
