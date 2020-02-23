@@ -69,4 +69,8 @@ Below are the problem statements that each developer worked on:
 - To execute both files you need to open powershell as administrator and use the syntax "python filename".
 - For example to execute mapper, you will type : python mapper.py
 - The output will be generated in the same folder within a text file after the reducer is executed.
+
+### Final Results
+
+
  
