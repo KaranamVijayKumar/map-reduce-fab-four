@@ -6,6 +6,8 @@ In Hadoop the two core concepts we use are:
 1. HDFS : Hadoop distributed file system is to store the information.
 2. Map-Reduce : This is used to process the information.
 
+In this project we are going to apply the map-reduce concept by writing the python programs for mapper and reducer. Please follow the step-by-step instructions provided below to get familiarized with the project.
+
 # Project
 ## Course: BIG DATA SP20
 ## Group 5
