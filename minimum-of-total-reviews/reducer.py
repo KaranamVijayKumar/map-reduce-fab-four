@@ -1,5 +1,8 @@
+# Giving the mapper's output as input to the reducer
 s = open("output1.txt","r")
 r = open("output2.txt", "w")
+
+# Initializing the values
 thisKey = ""
 thisValue = 0.0
 next(s)
@@ -17,29 +20,29 @@ list1 = [thisValue]
 r.write(thisKey + '\t' + str(thisValue)+'\n')
 r.write(str(list1))
 
-
+# creatinng a dictionary 
 d = dict((line.strip().split('	') for line in open("output2.txt")))
 
 abc = list((d.values()))
 newList = []
-
+# loop for adding each value to newlist  
 for each in abc:
   newList.append(float(each))
 
-maxValue = min((newList))
+minValue = min((newList))
 
 keyValue = "" 
-
+# loop for finding minmum value
 for key, value in d.items():
-  if float(value) == maxValue:
+  if float(value) == minValue:
     keyValue = key
     break
 
 
 output = open("finaloutput.txt", "w")
-output.write(keyValue + '\t'+ str(maxValue)+'\n')
-
-print(keyValue,' : ',maxValue)
+output.write(keyValue + '\t'+ str(minValue)+'\n')
+# printing the key value pairs
+print(keyValue,' : ',minValue)
 
 s.close()
 r.close()    
