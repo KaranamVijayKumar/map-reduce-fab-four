@@ -7,7 +7,7 @@ This repo is created to do a map-reduce group project on a simple data set.
 1. Vijay Kumar Karanam
 2. Harsha Vardhan Reddy Nallavolu
 3. Lavanya Reddy Uppula
-4. Prajakt Uttam Rao Khawase
+4. Prajakt Uttamrao Khawase
 
 ## Links
 - [Source_Repo](https://github.com/KaranamVijayKumar/map-reduce-fab-four)
