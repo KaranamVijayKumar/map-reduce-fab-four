@@ -8,9 +8,8 @@ In Hadoop the two core concepts we use are:
 
 In this project we are going to apply the map-reduce concept by writing the python programs for mapper and reducer. Please follow the step-by-step instructions provided below to get familiarized with the project.
 
-# Project
+# Project : Group 5
 ## Course: BIG DATA SP20
-## Group 5
 ## Developers
 1. Vijay Kumar Karanam
 2. Harsha Vardhan Reddy Nallavolu
