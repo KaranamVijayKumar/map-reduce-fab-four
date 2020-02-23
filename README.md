@@ -76,4 +76,10 @@ Below are the problem statements that each developer worked on:
 
 ![count-of-negative-reviews](./images-results/Count-of-Negative-reviews.PNG)
 
+2. Count of Total Positive Reviews
+
+![count-of-positive-reviews](./images-results/Count-of-Positive-reviews.PNG)
+
+
+
  
