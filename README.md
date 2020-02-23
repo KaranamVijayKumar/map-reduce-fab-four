@@ -72,5 +72,8 @@ Below are the problem statements that each developer worked on:
 
 ### Final Results
 
+1. Count of Total Negative Reviews
+
+![count-of-negative-reviews](./images-results/Count-of-Negative-reviews.PNG)
 
  
