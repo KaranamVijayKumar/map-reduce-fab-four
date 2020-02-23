@@ -55,7 +55,7 @@ Below are the problem statements that each developer worked on:
  - For each Hotel, find the minimum of total number of reviews reviewer has given.
 
 ## Instructions to run the Project
-### Requirements
+## Requirements
 - Install Chocolatey, the Windows package manager.
 - Install Python 3.
 - Install Git for Windows.
@@ -63,7 +63,7 @@ Below are the problem statements that each developer worked on:
 - Add Open Command Window Here as Administrator to your File Explorer context menu.
 - Install Visual Studio Code for text editing.
 
-### How to run
+## How to run
 
 - Each developer has created their own folder which addresses their unique problem statement. Inside that folder you can find two files mapper.py and reducer.py.
 - First you need to execute mapper.py and then reducer.py.
@@ -71,7 +71,7 @@ Below are the problem statements that each developer worked on:
 - For example to execute mapper, you will type : python mapper.py
 - The output will be generated in the same folder within a text file after the reducer is executed.
 
-### Final Results
+## Final Results
 
 1. Count of Total Negative Reviews
 
@@ -85,7 +85,7 @@ Below are the problem statements that each developer worked on:
 
 ![Max-Min-of-Total-Reviews](./images-results/Max-Min-Reviews.PNG)
 
-### Citations
+## Citations
 
 The data was scraped from Booking.com. All data in the file is publicly available to everyone already. Data is originally owned by Booking.com. Data set is taken from Kaggle website. Link to it is provided below :
 
