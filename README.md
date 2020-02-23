@@ -44,11 +44,11 @@ The key attributes of the data set are Hotel_Name, Review_Total_Negative_Word_Co
 
 Below are a few problem statements we can phrase from the data set.
 
-- Harsha Vardhan Reddy Nallavolu
+1. Harsha Vardhan Reddy Nallavolu
  - For each Hotel, find the count of positive_word_reviews.
-- Prajakt Uttamrao Khawase
+2. Prajakt Uttamrao Khawase
  - For each Hotel, find the count of negative_word_reviews.
-- Vijay Kumar Karanam 
+3. Vijay Kumar Karanam 
  - For each Hotel, find the maximum of total number of reviews reviewer has given.
-- Lavanya Reddy Uppula
+4. Lavanya Reddy Uppula
  - For each Hotel, find the minimum of total number of reviews reviewer has given.
