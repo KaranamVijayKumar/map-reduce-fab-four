@@ -1,5 +1,8 @@
 # map-reduce-fab-four
-This repo is created to do a map-reduce group project on a simple data set.
+This repo is created to do a map-reduce group project on a simple data set. The goal is to create a self-contained sample project that introduces our project to a developer not familiar with HDFS or MapReduce.
+
+# Background
+
 
 # Map-Reduce-Fab-Four
 ## Course: BIG DATA SP20
