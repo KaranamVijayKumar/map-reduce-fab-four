@@ -2,8 +2,8 @@
 This repo is created to do a map-reduce group project on a simple data set.
 
 # Map-Reduce-Fab-Four
-- Course: BIG DATA SP20
-- Developers
+## Course: BIG DATA SP20
+## Developers
 1. Vijay Kumar Karanam
 2. Harsha Vardhan Reddy Nallavolu
 3. Lavanya Reddy Uppula
