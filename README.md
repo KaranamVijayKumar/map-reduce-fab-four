@@ -1,12 +1,12 @@
 # map-reduce-fab-four
-This repo is created to do a map-reduce group project on a simple data set. The goal is to create a self-contained sample project that introduces our project to a developer not familiar with HDFS or MapReduce.
+This repo is created to do a map-reduce group project on a simple data set. The goal is to create a  sample project that introduces our project to a developer not familiar with HDFS or MapReduce.
 
 # Background
 In Hadoop the two core concepts we use are: 
-1. HDFS : Hadoop distributed file system is to store the information
+1. HDFS : Hadoop distributed file system is to store the information.
 2. Map-Reduce : This is used to process the information.
 
-# Map-Reduce-Fab-Four
+# Project
 ## Course: BIG DATA SP20
 ## Developers
 1. Vijay Kumar Karanam
@@ -21,7 +21,7 @@ In Hadoop the two core concepts we use are:
 - [Data_Source](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe)
 
 ## Introduction
-The data was scraped from Booking.com. All data in the file is publicly available to everyone already. Data is originally owned by Booking.com.
+The data was scraped from Booking.com. All data in the file is publicly available to everyone already. Data is originally owned by Booking.com. This dataset contains 515,000 customer reviews and scoring of 1493 luxury hotels across Europe. Meanwhile, the geographical location of hotels are also provided for further analysis.
 
 ## V's of the data
 
