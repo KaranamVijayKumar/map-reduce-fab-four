@@ -42,7 +42,7 @@ The key attributes of the data set are Hotel_Name, Review_Total_Negative_Word_Co
 
 ## Big Data Problems
 
-Below are a few problem statements we can phrase from the data set.
+Below are the problem statements that each developer worked on: 
 
 1. Harsha Vardhan Reddy Nallavolu
  - For each Hotel, find the count of positive_word_reviews.
@@ -52,3 +52,17 @@ Below are a few problem statements we can phrase from the data set.
  - For each Hotel, find the maximum of total number of reviews reviewer has given.
 4. Lavanya Reddy Uppula
  - For each Hotel, find the minimum of total number of reviews reviewer has given.
+
+## Instructions to run the Project
+### Requirements
+- Install Chocolatey, the Windows package manager.
+- Install Python 3.
+- Install Git for Windows.
+- Install TortoiseGit.
+- Add Open Command Window Here as Administrator to your File Explorer context menu.
+- Install Visual Studio Code for text editing.
+
+### How to run
+
+We have created 
+ 
