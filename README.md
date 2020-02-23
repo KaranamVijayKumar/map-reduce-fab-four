@@ -8,6 +8,7 @@ In Hadoop the two core concepts we use are:
 
 # Project
 ## Course: BIG DATA SP20
+## Group 5
 ## Developers
 1. Vijay Kumar Karanam
 2. Harsha Vardhan Reddy Nallavolu
@@ -45,4 +46,5 @@ Below are a few problem statements we can phrase from the data set.
 
 - For each Hotel, find the count of positive_word_reviews.
 - For each Hotel, find the count of negative_word_reviews.
-- For each Reviewer_Nationality, find the average of reviewer_score.
+- For each Hotel, find the maximum of total reviews.
+- For each Hotel, find the minimum of total reviews.
