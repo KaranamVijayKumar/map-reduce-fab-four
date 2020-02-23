@@ -41,7 +41,7 @@ The key attributes of the data set are Hotel_Name, Review_Total_Negative_Word_Co
 
 5. Value: - We can cluster the hotels based on the reviews and perform sentimental analysis on the reviews.
 
-## Big Data Problems
+## Big Data Problems addressed in this project
 
 Below are the problem statements that each developer worked on: 
 
