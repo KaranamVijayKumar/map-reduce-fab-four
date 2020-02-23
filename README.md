@@ -2,7 +2,9 @@
 This repo is created to do a map-reduce group project on a simple data set. The goal is to create a self-contained sample project that introduces our project to a developer not familiar with HDFS or MapReduce.
 
 # Background
-
+In Hadoop the two core concepts we use are: 
+1. HDFS : Hadoop distributed file system is to store the information
+2. Map-Reduce : This is used to process the information.
 
 # Map-Reduce-Fab-Four
 ## Course: BIG DATA SP20
