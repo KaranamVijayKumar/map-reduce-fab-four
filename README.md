@@ -80,6 +80,9 @@ Below are the problem statements that each developer worked on:
 
 ![count-of-positive-reviews](./images-results/Count-of-Positive-reviews.PNG)
 
+3. Max and Min of Total Reviews
+
+![Max-Min-of-Total-Reviews](./images-results/Max-Min-Reviews.PNG)
 
 
  
