@@ -84,5 +84,11 @@ Below are the problem statements that each developer worked on:
 
 ![Max-Min-of-Total-Reviews](./images-results/Max-Min-Reviews.PNG)
 
+### Citations
+
+The data was scraped from Booking.com. All data in the file is publicly available to everyone already. Data is originally owned by Booking.com. Data set is taken from Kaggle website. Link to it is provided below :
+
+- <https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe>
+
 
  
