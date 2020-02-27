@@ -13,7 +13,7 @@ In this project we are going to apply the map-reduce concept by writing the pyth
 ## Developers
 1. [Vijay Kumar Karanam](https://github.com/KaranamVijayKumar/)
 2. [Harsha Vardhan Reddy Nallavolu](https://github.com/harsha4824)
-3. Lavanya Reddy Uppula
+3. [Lavanya Reddy Uppula](https://github.com/reddylavanya)
 4. Prajakt Uttamrao Khawase
 
 ## Links
