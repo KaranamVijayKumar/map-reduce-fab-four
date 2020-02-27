@@ -14,7 +14,7 @@ In this project we are going to apply the map-reduce concept by writing the pyth
 1. [Vijay Kumar Karanam](https://github.com/KaranamVijayKumar/)
 2. [Harsha Vardhan Reddy Nallavolu](https://github.com/harsha4824)
 3. [Lavanya Reddy Uppula](https://github.com/reddylavanya)
-4. Prajakt Uttamrao Khawase
+4. [Prajakt Uttamrao Khawase](https://github.com/Prajakt-Khawase)
 
 ## Links
 - [Source_Repo](https://github.com/KaranamVijayKumar/map-reduce-fab-four)
