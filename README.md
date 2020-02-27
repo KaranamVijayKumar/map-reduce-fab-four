@@ -11,7 +11,7 @@ In this project we are going to apply the map-reduce concept by writing the pyth
 # Project : Group 5
 ## Course: BIG DATA SP20
 ## Developers
-1. Vijay Kumar Karanam
+1. [Vijay Kumar Karanam](https://github.com/KaranamVijayKumar/)
 2. Harsha Vardhan Reddy Nallavolu
 3. Lavanya Reddy Uppula
 4. Prajakt Uttamrao Khawase
