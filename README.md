@@ -12,7 +12,7 @@ In this project we are going to apply the map-reduce concept by writing the pyth
 ## Course: BIG DATA SP20
 ## Developers
 1. [Vijay Kumar Karanam](https://github.com/KaranamVijayKumar/)
-2. Harsha Vardhan Reddy Nallavolu
+2. [Harsha Vardhan Reddy Nallavolu](https://github.com/harsha4824)
 3. Lavanya Reddy Uppula
 4. Prajakt Uttamrao Khawase
 
